@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>https://zachheckertblog.github.io/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 May 2021 16:53:24 -0600</lastBuildDate><atom:link href="https://zachheckertblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Did You Read the Logs?</title>
+      <link>https://zachheckertblog.github.io/posts/did-you-read-the-logs/</link>
+      <pubDate>Wed, 26 May 2021 16:53:24 -0600</pubDate>
+      
+      <guid>https://zachheckertblog.github.io/posts/did-you-read-the-logs/</guid>
+      <description>I recently started at a new company and began setting up my dev environment. During the process, I got stuck and asked for help. I asked the coworker giving me a hand what sorts of things I could do to improve and he had a couple suggestions that I wanted to type out here so I hopefully never forget to do them when they&amp;rsquo;ll invariably need to be applied.
+&amp;ldquo;Did You Read the Logs?</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://zachheckertblog.github.io/posts/hello-world/</link>
+      <pubDate>Sat, 15 May 2021 11:59:42 -0600</pubDate>
+      
+      <guid>https://zachheckertblog.github.io/posts/hello-world/</guid>
+      <description>It&amp;rsquo;s cliche, but tradition. Hello, World!
+My name is Zach and I&amp;rsquo;m a web developer and artist.
+I plan on filling this blog up with my thoughts about being a programmer and whatever else I have going on in my life.
+You can visit my portfolio site HERE.
+Thanks for stopping by, and have a great day.</description>
+    </item>
+    
+  </channel>
+</rss>
